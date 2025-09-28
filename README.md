@@ -1,6 +1,6 @@
 ## 🏨Hotel Reservation System
 🚀 Thrilled to share another key project from my internship — the Hotel Reservation System!
-This project isn’t just about booking rooms — it’s a complete environment for guests and administrators, designed with OOP principles, a responsive Java Swing GUI, and
+ This project isn’t just about booking rooms — it’s a complete environment for guests and administrators, designed with OOP principles, a responsive Java Swing GUI, and
 persistent storage to ensure reliability.
 
 ### ✨ Features
